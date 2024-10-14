@@ -1,6 +1,6 @@
 # Hash Breakdown v2, 2024
 
-NOTE: Hash Breakdown v2 is a reduced version of the artwork Hash Breakdown (https://github.com/silviabinda/hash_breakdown), and was made specifically for the Dutch Design Week 2024 exhibition curated by Baltan Laboratories. 
+NOTE: Hash Breakdown v2 is a reduced version of the artwork Hash Breakdown (https://github.com/silviabinda/hash_breakdown), and was made specifically for the Dutch Design Week 2024 exhibition curated by Baltan Laboratories (https://ddw.nl/en/programme/12149/decentralized-futures). 
 
 DIFFERENCES to original version: The version v2 differs in the number of 3D printed modules used, the color palette chosen, the overall dimension of the artwork and the number of electronic modules used. These changes implicate minor changes to the codes as well. Overall, the functionality and concept of the artwork do not change. 
 

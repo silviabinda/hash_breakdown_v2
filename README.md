@@ -1,8 +1,13 @@
 # Hash Breakdown v2, 2024
+![Baltan DDW 2024 Decentralized Futures LR5](https://github.com/user-attachments/assets/04bf7a48-b5d2-4732-9a9b-8d33f307ab0b)
+Photo: Barbara Medo
 
 NOTE: Hash Breakdown v2 is a reduced version of the artwork Hash Breakdown (https://github.com/silviabinda/hash_breakdown), and was made specifically for the Dutch Design Week 2024 exhibition curated by Baltan Laboratories (https://ddw.nl/en/programme/12149/decentralized-futures). 
 
 DIFFERENCES to original version: The version v2 differs in the number of 3D printed modules used, the color palette chosen, the overall dimension of the artwork and the number of electronic modules used. These changes implicate minor changes to the codes as well. Overall, the functionality and concept of the artwork do not change. 
+
+![boudewijnbollmann_ddw_koelhuis](https://github.com/user-attachments/assets/201d79f0-06b2-496a-9b81-38ca86105522)
+Photo: Boudewijn Bollmann
 
 ## About
 Hash Breakdown v2 is a critical interface constituted by an electronic and digital ensemble of microcomputers, modules, 3D prints, sensors and codes with real-time functionality. The system parses sentences related to the keywords “feminism is” from the World Wide Web and then initiates a slowed-down explanatory process of converting the parsed sentence into a hash using the SHA-256 (Secure Hash Algorithm 256-bit) algorithm.
@@ -12,3 +17,6 @@ A hash is a mathematical function that converts an input of arbitrary length int
 The artwork articulates critique directed towards the mystifying, elitist and masculine narrative around algorithms and the blockchain. The purpose of Hash Breakdown v2  is to demystify, decompose, slow down and break down the hashing process of a SHA-256 algorithm. What normally takes less than a millisecond is here extended into a 4-minute explanatory cycle, represented visually within a structure imitating parts of a simplified logic gate diagram of the very same SHA-256 hashing function. 
  
 Through a router connected to a Raspberry Pi, the ESP32 microcontrollers receive partial data needed for different stages of the hashing process. The data to be hashed is generated automatically by a script that returns the first results of the search for the words “feminism is” in the DuckDuckGo search engine. For this, a Python implementation of the SHA-256 hashing algorithm was used and modified in such a way that each step is represented visually or sonically, making the hashing algorithm transparent and comprehensible for visitors.
+
+![Baltan DDW 2024 Decentralized Futures LR57](https://github.com/user-attachments/assets/e2627a00-ae6f-446a-93f5-ab76ff6cd3de)
+Photo: Barbara Medo
